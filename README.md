@@ -1,0 +1,1 @@
+## ahpcase.R imports judgement data and calculates global factor weights in an AHP model
